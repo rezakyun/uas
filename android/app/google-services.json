@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "322544754519",
+    "project_id": "uas-catatan",
+    "storage_bucket": "uas-catatan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322544754519:android:5edaa78f42dd68fe912812",
+        "android_client_info": {
+          "package_name": "com.example.catatan_uas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322544754519-75fgpuicmjjegg5m3sli6pmb8otjo76l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR37ExjwQ8CtjoWqay2l1Gj0u6hSVDx4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322544754519-75fgpuicmjjegg5m3sli6pmb8otjo76l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "322544754519-i1b99afd7fvq23vj9qdfthnpdc01eu2j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.uasCatatan"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322544754519:android:82d8413d4f95529a912812",
+        "android_client_info": {
+          "package_name": "com.example.uas_catatan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322544754519-75fgpuicmjjegg5m3sli6pmb8otjo76l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR37ExjwQ8CtjoWqay2l1Gj0u6hSVDx4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322544754519-75fgpuicmjjegg5m3sli6pmb8otjo76l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "322544754519-i1b99afd7fvq23vj9qdfthnpdc01eu2j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.uasCatatan"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
